@@ -8,26 +8,26 @@ this repository track my progress in AI education focus on Anthropic and OpenAI 
 
 OpenAI:
 
-[] AI for Nonprofits:
+AI for Nonprofits:
 
-- [] Prompting 101
-- [] Improving Your Donation Page
-- [] Reverse Engineering a Visual Campaign
-- [] Creating a Custom GPT
+- [ ] Prompting 101
+- [ ] Improving Your Donation Page
+- [ ] Reverse Engineering a Visual Campaign
+- [ ] Creating a Custom GPT
 
 Anthropic:
 
-[] Claude for Personal
+Claude for Personal
 
-- [] Introduction to AI Fluency
-- [] The AI Fluency Framework
-- [] Deep Dive 1: What is Generative AI?
-- [] Delegation
-- [] Applying Delegation
-- [] Description
-- [] Deep Dive 2: Effective Prompting Techniques
-- [] Discernment
-- [] The Description-Discernment Loop
-- [] Diligence
-- [] Conclusion & Certificate
-- [] Additional Activities
+- [ ] Introduction to AI Fluency
+- [ ] The AI Fluency Framework
+- [ ] Deep Dive 1: What is Generative AI?
+- [ ] Delegation
+- [ ] Applying Delegation
+- [ ] Description
+- [ ] Deep Dive 2: Effective Prompting Techniques
+- [ ] Discernment
+- [ ] The Description-Discernment Loop
+- [ ] Diligence
+- [ ] Conclusion & Certificate
+- [ ] Additional Activities
