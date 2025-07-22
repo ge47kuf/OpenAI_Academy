@@ -10,7 +10,7 @@ OpenAI:
 
 AI for Nonprofits:
 
-- [ ] Prompting 101
+- [x] Prompting 101
 - [ ] Improving Your Donation Page
 - [ ] Reverse Engineering a Visual Campaign
 - [ ] Creating a Custom GPT
