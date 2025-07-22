@@ -7,6 +7,7 @@ this repository track my progress in AI education focus on Anthropic and OpenAI 
 ## TODOS
 
 OpenAI:
+
 [] AI for Nonprofits:
 
 - [] Prompting 101
@@ -15,6 +16,7 @@ OpenAI:
 - [] Creating a Custom GPT
 
 Anthropic:
+
 [] Claude for Personal
 
 - [] Introduction to AI Fluency
